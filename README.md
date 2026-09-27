@@ -51,10 +51,6 @@ Copy-Item "TwilightSparkle-codex-pet\spritesheet.webp" "$HOME\.codex\pets\duskst
 
 删除 `~/.codex/pets/duskstar`，然后重启 Codex。
 
-## QA 文件
-
-`qa/` 保存了联系表、16 方向预览、图集校验和盲测结果，方便审查动画完整性。
-
 ## 许可与声明
 
 代码和仓库原创文件以 [MIT License](LICENSE) 开源。
